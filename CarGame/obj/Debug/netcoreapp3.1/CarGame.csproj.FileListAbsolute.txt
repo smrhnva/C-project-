@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\CarGame\CarGame\bin\Debug\netcoreapp3.1\CarGame.exe
+C:\Users\1\source\repos\CarGame\CarGame\bin\Debug\netcoreapp3.1\CarGame.deps.json
+C:\Users\1\source\repos\CarGame\CarGame\bin\Debug\netcoreapp3.1\CarGame.runtimeconfig.json
+C:\Users\1\source\repos\CarGame\CarGame\bin\Debug\netcoreapp3.1\CarGame.runtimeconfig.dev.json
+C:\Users\1\source\repos\CarGame\CarGame\bin\Debug\netcoreapp3.1\CarGame.dll
+C:\Users\1\source\repos\CarGame\CarGame\bin\Debug\netcoreapp3.1\CarGame.pdb
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.csprojAssemblyReference.cache
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.Form1.resources
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.csproj.GenerateResource.cache
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.AssemblyInfo.cs
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.dll
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.pdb
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.genruntimeconfig.cache
+C:\Users\1\source\repos\CarGame\CarGame\obj\Debug\netcoreapp3.1\CarGame.Properties.Resources.resources
